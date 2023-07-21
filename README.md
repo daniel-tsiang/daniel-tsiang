@@ -17,19 +17,8 @@
 ---
 <div align="center">
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 19 June 2023 - To: 19 July 2023
-
-Java                             ███████████████▒░░░░░░░░░   61.47 %
-Python                           ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-SQL                              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-TypeScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-YAML                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-```
-
-<!--END_SECTION:waka-->
+<img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/34b91428-5fec-4008-aac3-12bed7b8b2cf.svg" alt="Languages">
+<br><br>
 
 [![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029)](https://stackoverflow.com/users/17330029)
 
