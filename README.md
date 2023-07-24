@@ -17,7 +17,9 @@
 ---
 <div align="center">
 
-<img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/34b91428-5fec-4008-aac3-12bed7b8b2cf.svg" alt="Languages">
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg">
+  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg?&kill_cache=1" alt="Coding Languages">
+</a>
 <br><br>
 
 [![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029)](https://stackoverflow.com/users/17330029)
