@@ -17,8 +17,8 @@
 ---
 <div align="center">
 
-<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg">
-  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg?&kill_cache=1" alt="Coding Languages">
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/c52af3e3-1573-4900-8f57-8dbb53bb979f.svg">
+  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/c52af3e3-1573-4900-8f57-8dbb53bb979f.svg?&kill_cache=1" alt="Coding Languages">
 </a>
 <br><br>
 
